@@ -1,7 +1,7 @@
 ### Hi, I'm Ernest
 
-Mobile engineer at Teamleader, based in Prishtina. I ship Flutter and native
-iOS / Android apps by day and experimenting with AI on the side.
+Mobile engineer at Teamleader, based in Prishtina. I work with Flutter and native
+iOS / Android apps
 
 **Open source**
 
